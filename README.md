@@ -11,7 +11,7 @@ The objectives for this project are to improve:
 
 Data was cleaned, preprocessed and analysed. Some high level visualisations have ben created to highlight some signifiant differences between high performing employees who left vs remain at the company. These have been designed to provide one clear message per slide/visualisation as it is being presented to C-level and is therefore business focused rather than techniaclly in depth.
 
- |  |                      
+                           |                           |                      
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Alt text](presentation_pictures/data_vis_1.png)  |  ![Alt text](presentation_pictures/data_vis_2.png)|  ![Alt text](presentation_pictures/data_vis_3.png)
 
