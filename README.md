@@ -1,4 +1,4 @@
-# Modelling and visualising high-performing employee churn. 
+# Modelling and visualising high-performing employee churn
 
 ## Techniques used:
 - Logistic Regression
