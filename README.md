@@ -14,7 +14,7 @@ Data was cleaned, preprocessed and analysed. Some high level visualisations have
 
 Solarized dark             |  Solarized Ocean           |  Solarized Ocean
 :-------------------------:|:-------------------------:|:-------------------------:
-![](presentation_pictures/vis_1.png)  |  ![](presentation_pictures/vis_2.png)|  ![](presentation_pictures/vis_3.png)
+![Alt text](presentation_pictures/data_vis_1.png)  |  ![Alt text](presentation_pictures/data_vis_2.png)|  ![Alt text](presentation_pictures/data_vis_3.png)
 
 
 
