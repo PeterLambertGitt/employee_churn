@@ -3,7 +3,7 @@
 ## Techniques used:
 - Logistic Regression
 - Data Analysis with Pandas
-- Data Visualisation with Seaborn
+- Data Visualisation with Seaborn, Matplotlib
 
 
 ## The objectives for this project are to improve:
