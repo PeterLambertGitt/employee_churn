@@ -24,7 +24,7 @@ The data was then modelled with a Logistic Regression to predict the likeihood o
 
 Feature Selection          |  Classification
 :-------------------------:|:-------------------------:
-![Alt text](presentation_pictures/log_reg_1.png)  |  ![Alt text](presentation_pictures/log_reg_2.png)
+![Alt text](presentation_pictures/log_reg_1.png)  |  ![Alt text](presentation_pictures/log_reg_2_v2.png)
 
 ## Objective Brief - Operational, Tactical and Strategic reccomendations
 
