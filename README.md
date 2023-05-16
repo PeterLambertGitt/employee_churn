@@ -1,5 +1,7 @@
 # Modelling and visualising high-performing employee churn
 
+Achieved 93% recall, chosen to minimize false negatives, whilst maintaining 66% Accuracy. False positives are classified as ‘At Risk’ employees and focused on by the business.
+
 ## Techniques used:
 - Logistic Regression
 - Data Analysis with Pandas
